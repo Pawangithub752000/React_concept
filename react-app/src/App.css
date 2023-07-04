@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  border : 1px solid grey;
+  border-radius: 5px;
+  width: 50%;
+ cursor : pointer;
+
+}
+.App1{
+  text-align: center;
+  border : 1px solid grey;
+  border-radius: 5px;
+  width: 50%;
+ cursor : pointer;
+ background-color: green;
 }
 
 .App-logo {
