@@ -22,6 +22,11 @@ import in app.js file
 - props are used to send data from one component to another component.
 - props are read only that is we cannot change their value.
 
+5. State In React Functional component
+--> React js me directly hum data ko update nhi kr shakte hai 
+
+-->state,useState ya hook ka jrurat react js me isliye parta hai kyuki hum react js me directly data ko update nhi kr shakte hai
+
 
 
 
