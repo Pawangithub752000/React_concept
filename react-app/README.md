@@ -9,12 +9,12 @@ yaha pr name pawan ko rakha gya hai
 */
 
 3. component in React 
-------Component-----
-there are two types of components :-  functional component and class component After coming hooks sara kuch ab 
+--> there are two types of components :-  functional component and class component After coming hooks sara kuch ab 
 functional components me hi hota hai
 
--->component:- component like a function if i want to use component firstly create the component and after that export then 
+--> component:- component like a function if i want to use component firstly create the component and after that export then 
 import in app.js file 
+
 --> component reusable hota hai means aak component ko multiple time use kr shakte hai
 
 4. Props in React:-
